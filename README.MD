@@ -5,7 +5,7 @@ Adição de Tarefas: Possibilidade de adicionar novas tarefas à lista.
 Marcação de Concluídas: Capacidade de marcar tarefas como concluídas.
 Exclusão de Tarefas: Opção para excluir tarefas da lista.
 
-O projeto foi feito com o auxilio do tutorial [Make Responsive Todo List App in HTML CSS & JavaScript](https://www.youtube.com/watch?v=9Wi2a5_3umU&t=1238s){:target="_blank"}
+O projeto foi feito com o auxilio do tutorial [Make Responsive Todo List App in HTML CSS & JavaScript](https://www.youtube.com/watch?v=9Wi2a5_3umU&t=1238s)
 
-(To-Do-List-JS\gti1.png)
+gti1.png
 
