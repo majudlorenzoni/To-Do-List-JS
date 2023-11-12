@@ -7,5 +7,5 @@ Exclusão de Tarefas: Opção para excluir tarefas da lista.
 
 O projeto foi feito com o auxilio do tutorial [Make Responsive Todo List App in HTML CSS & JavaScript](https://www.youtube.com/watch?v=9Wi2a5_3umU&t=1238s)
 
-gti1.png
+![IMAGEM DO PROJETO](https://github.com/majudlorenzoni/To-Do-List-JS/blob/main/gti1.png)
 
