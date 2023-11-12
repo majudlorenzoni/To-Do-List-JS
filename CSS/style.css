@@ -40,7 +40,7 @@
     resize: none;
 }
 .input-field textarea:focus{
-    border-color:  #ff0000;
+    border-color: #ff0000;
 }
 
 textarea::-webkit-scrollbar{
@@ -57,11 +57,13 @@ textarea::-webkit-scrollbar{
     color: #a87070;
 }
 .input-field textarea:focus ~ .note-icon{
-    color:  ff0000;
+    color:  #ff0000;
 }
 
 .container .todoLists {
-    margin-top: 20px;
+   max-height: 380px;
+   overflow-y: auto;
+   padding-right: 10px;
 }
 
 .todoLists .list {
@@ -105,7 +107,7 @@ textarea::-webkit-scrollbar{
     height: 16px;
     min-width: 16px;
     accent-color: #ff0000;
-    /* pointer-events: none; */
+    pointer-events: none;
 }
 
 .list input:checked ~ .task{
@@ -129,6 +131,7 @@ textarea::-webkit-scrollbar{
     color: #fff;
     font-size: 14px;
     cursor: pointer;
+    pointer-events: none ;
 }
 
 .clear-button:hover{
